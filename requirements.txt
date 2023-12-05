@@ -4,4 +4,3 @@ TgCrypto
 python-dotenv
 pymongo
 dnspython
-gitpython

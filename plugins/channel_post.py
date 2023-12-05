@@ -1,4 +1,5 @@
-# Codexbotz #mrismanaziz
+# Codexbotz
+# mrismanaziz
 
 from asyncio import sleep
 
@@ -24,8 +25,6 @@ from helper_func import encode
             "batch",
             "logs",
             "genlink",
-            "update",
-            "stats",
             "vars",
         ]
     )
